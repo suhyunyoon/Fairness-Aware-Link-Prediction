@@ -8,4 +8,4 @@ Cora, Citeseer, Facebook
 ### Contribution
 
 This code was contributed by
-[suhyunyoon](https://github.com/suhyunyoon), 
+[suhyunyoon](https://github.com/suhyunyoon), [heeyooon](https://github.com/heeyooon), 
